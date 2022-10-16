@@ -278,7 +278,7 @@ No other service acts as an intermediary between your Google spreadsheet and Bin
 Don't you have a **Binance** account yet?  
 Register using the **referal link** below and get a **10% discount on fees** for **all** your trades!
 
-[**https://www.binance.com/en/register?ref=SM93PRAV**](https://www.binance.com/en/register?ref=SM93PRAV)  
+[**https://accounts.binance.com/en/register?ref=CRQ7Y5TF**](https://accounts.binance.com/en/register?ref=CRQ7Y5TF)  
 
 
 ## Enjoy - Donate - Buy me a beer!  =]
@@ -291,14 +291,7 @@ I will much appreciate any contribution and support to keep working on it.
 I have several ideas for new features, so much more could come!
 
 You can send any token through the **Binance Smart Chain** (BSC/BEP20) to the address:  
-`0x1d047bc3e46ce0351fd0c44fc2a2029512e87a97`
-
-But you can also use:
-* **[BTC] BTC:** `1FsN54WNibhhPhRt4vnAPRGgzaVeeFvEnM`
-* **[BTC] SegWit:** `bc1qanxn2ycp9em50hj5p7en6wxe962zj4umqvs7q9`
-* **[ETH] ERC20:** `0x1d047bc3e46ce0351fd0c44fc2a2029512e87a97`
-* **[LTC] LTC:** `LZ8URuChzyuuy272isMCrts7R7UKtwnj6a`
-
+`0x51CeC0bB36BacC9765e1A5fa67b84810DeF607Ae`
 ---
 
 This software was published and released under the **GPL-3.0 License**.

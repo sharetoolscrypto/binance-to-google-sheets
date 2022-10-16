@@ -278,7 +278,7 @@ No other service acts as an intermediary between your Google spreadsheet and Bin
 Don't you have a **Binance** account yet?  
 Register using the **referal link** below and get a **10% discount on fees** for **all** your trades!
 
-[**https://accounts.binance.com/en/register?ref=CRQ7Y5TF**](https://accounts.binance.com/en/register?ref=CRQ7Y5TF)  
+[**https://accounts.binance.com/en/register?ref=IMNOXVUY**](https://accounts.binance.com/en/register?ref=IMNOXVUY)  
 
 
 ## Enjoy - Donate - Buy me a beer!  =]
